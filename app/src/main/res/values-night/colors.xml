@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="screenBackgroundColor">#d5dbe3</color>
+
+    <color name="chatsScreenBackgroundColor">#1f4094</color>
+
+    <color name="chatsScreenUsernameTextColor">@color/white</color>
+
+    <color name="titleBarColor">#1f4094</color>
+
+    <color name="moveScreenWithNoDataColor">#b0b6bf</color>
+
+    <color name="errorColor">#b52424</color>
+
+    <color name="sentMessageColor">#59de7c</color>
+
+    <color name="pickImageTextColor">#FFFFFFFF</color>
+
+    <color name="textFieldsTextColor">#FF000000</color>
+
+
+</resources>
