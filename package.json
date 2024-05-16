@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "custom-env": "^2.0.2",
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.1",
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.2"
+  },
+  "name": "hw2server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "SET NODE_ENV=local && nodemon app.js",
+    "test": "SET NODE_ENV=test && nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
