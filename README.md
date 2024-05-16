@@ -1,5 +1,6 @@
 # ChatsApp---Web-Server-and-Client
 The ChatsApp project, part of the "Advanced Programming" course at Bar-Ilan University, is a web application that enables real-time communication between users. Built with React for the client-side, the app features signup, login, and chats pages. It uses a RESTful API for server-client communication, with the server side developed in Node.js and MongoDB for data storage. The app also supports real-time communication using WebSockets with Socket.IO.
+
 ScreenShots:
 
 <img width="459" alt="ChatsAppWebScreenShot1" src="https://github.com/AmirSchreiber1/ChatsApp---Web-Server-and-Client/assets/106608211/1e5694c1-f43e-4dff-8fe6-e1c2ac8c02c5">
